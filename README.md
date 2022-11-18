@@ -1,0 +1,8 @@
+# TELA CARTÃO DE CREDITO / PROJETO ACADEMIA FREED
+
+https://user-images.githubusercontent.com/106634122/202585665-e3dac5a1-16f0-4079-ac3b-7a5fb3e90e9d.mp4
+
+TECNOLOGIAS 
+-HTML
+-CSS
+-JS
